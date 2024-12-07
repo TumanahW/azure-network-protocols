@@ -29,8 +29,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>Create two virtual machines using Microsoft Azure. The first machine will be Windows 10 and the second will be Linux. </p>
 <p>Download Wireshark, Wireshark is a  protocol Analyzer that will allows us to  observe traffic coming from our Windows Machine.Once downloaded open Wireshark and start the packet capture by clicking on Ethernet and  the shark fin figure in the top left hand corner. </p>
 
-![Screenshot 2024-12-06 at 8 59 45 PM](https://github.com/user-attachments/assets/39711938-bc5f-493d-8cb9-92ede91c64f6)
-
 ![Screenshot 2024-12-06 at 8 59 45 PM](https://github.com/user-attachments/assets/19bea3e2-e7b6-4eed-aeff-5c88ed395a99)
 
 
