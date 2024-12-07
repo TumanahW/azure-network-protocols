@@ -48,4 +48,7 @@ Next, We'll filter for ICMP Traffic ( Internet Control Message Protocol) by typi
 
 ![Screenshot 2024-12-07 at 3 26 38 PM](https://github.com/user-attachments/assets/217e4c50-317e-4109-b2df-17668158b65b)
 
+<P> In the image below, we can see that ssh traffic was filtered and encypted. It was sent from the source to the destination. We can see for the selected packet 30372 that the source packet 51843 sent encrypted data to port 22 and SSH uses port 22.  </P>
+
+![Screenshot 2024-12-07 at 3 47 00 PM](https://github.com/user-attachments/assets/a26b6f45-991b-4480-83b5-06422a52fde0)
 
