@@ -54,7 +54,7 @@ Next, We'll filter for ICMP Traffic ( Internet Control Message Protocol) by typi
 
  <p> For RDP ( Remote Desk Top Protocol) we will filter out RDP traffic in wireshark. Type <b>tcp.port = =3389</b> and you will see that RDP is contantly running. The reason for this is that RDP is constantly streaming a connection  and image of the desktop.</p>
  
-![Screenshot 2024-12-07 at 4 17 27 PM] (https://github.com/user-attachments/assets/195eb815-bd89-48c3-9027-8e7c5fef4b28)
+![Screenshot 2024-12-07 at 4 17 27 PM](https://github.com/user-attachments/assets/195eb815-bd89-48c3-9027-8e7c5fef4b28)
 
  
 
