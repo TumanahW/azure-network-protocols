@@ -43,3 +43,8 @@ Next, We'll filter for ICMP Traffic ( Internet Control Message Protocol) by typi
 <p> Open the Windows Powershell,  and ping the private IP address of  the Linux VM  to test for connectivity. </p>
 
 ![Screenshot 2024-12-06 at 11 16 46 PM](https://github.com/user-attachments/assets/3d08f6db-5cfb-43a5-8edf-2ac4b7147f52)
+
+<p> We will use Microsoft Powershell to the ping a request from the Windows computer and the reply  to Linux. The image below capture the source Windows (10.0.0.4) ping request to the reply from Linux (10.0.0.5)   </p>
+
+<img width="1232" alt="Screenshot 2024-12-07 at 1 53 18 PM" src="https://github.com/user-attachments/assets/6c02bcb9-a3d8-4574-8b9b-d0258fa4878a">
+
