@@ -31,7 +31,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![Screenshot 2024-12-06 at 8 59 45 PM](https://github.com/user-attachments/assets/19bea3e2-e7b6-4eed-aeff-5c88ed395a99)
 
-
 <p> You'll see this screen below running traffic on the back end. They are displaying IP Packets. IP Packers are small chunks of data sent over the internet that contains both the information being transfered and the necessary details like address for its destination. </p>
 
 ![Screenshot 2024-12-06 at 9 35 26 PM](https://github.com/user-attachments/assets/16e29bf5-2038-413c-be53-f876e7f03738)
@@ -44,7 +43,9 @@ Next, We'll filter for ICMP Traffic ( Internet Control Message Protocol) by typi
 
 ![Screenshot 2024-12-06 at 11 16 46 PM](https://github.com/user-attachments/assets/3d08f6db-5cfb-43a5-8edf-2ac4b7147f52)
 
-<p> We will use Microsoft Powershell to the ping a request from the Windows computer and the reply  to Linux. The image below capture the source Windows (10.0.0.4) ping request to the reply from Linux (10.0.0.5)   </p>
+<p> Next, We will filter out SSH traffic in wire shark and send a ping request from our Windows Virtual machine to our Linux virtual Machine. SSH stands for Secure Shell and it's a network protocol uses port 22 and allows for client and server to communicate via an encrypted connected. </p>
+<p> We will connect to SSH in linux machine  by typing into powershell ssh username  @ IP Address <b>ssh labuser@ 10.0.0.5)</b>. Next, type yes and then input password  and you will see the user prompt will change to Linux and you are in the Linux virtual machine. </p>
 
-<img width="1232" alt="Screenshot 2024-12-07 at 1 53 18 PM" src="https://github.com/user-attachments/assets/6c02bcb9-a3d8-4574-8b9b-d0258fa4878a">
+![Screenshot 2024-12-07 at 3 26 38 PM](https://github.com/user-attachments/assets/217e4c50-317e-4109-b2df-17668158b65b)
+
 
