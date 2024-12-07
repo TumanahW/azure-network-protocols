@@ -39,3 +39,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 Next, We'll filter for ICMP Traffic ( Internet Control Message Protocol) by typing <b>icmp</b> in the field above to only view icmp traffic. ICMP used for error reporting and diagnostics. ICMP is commonly used by network tools like <b>ping</b> and <b>traceroute</b> to test connectivity and troubleshoot network issues.
 
 ![Screenshot 2024-12-06 at 9 58 25 PM](https://github.com/user-attachments/assets/177c1be4-f6d1-4311-bedf-90865e9c4c3e)
+
+<p> Open the Windows Powershell,  and ping the private IP address of  the Linux VM  to test for connectivity. </p>
+
+![Screenshot 2024-12-06 at 11 16 46 PM](https://github.com/user-attachments/assets/3d08f6db-5cfb-43a5-8edf-2ac4b7147f52)
